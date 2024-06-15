@@ -227,6 +227,7 @@ Technically what this means is this:
     
     - Purpose: To stop the search after executing the command once.
 
+>The trick for second flag, without getting root access would be the same as what you did to see the `/etc/shadow`. Encrypt & decrypt at the same time!
 -----------------------------------------------------------------
 And that'll be it for this challenge and for this room! Do the things such as like, share, or comment out your opinion, or whatever its done here!
 **Stay classy!**
